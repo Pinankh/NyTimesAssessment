@@ -17,6 +17,7 @@ FolderStructure - Seperation on layers
 Asynchronous Network calls
 
 Project Overview
+
 AYTimecontroller - This is the network and api controller with delegate for call dispatch_async wich is Handles the Request for NYTimes API.
 
 Detailsviewcontroller - scene contains detailed News of Ny Times Publish
